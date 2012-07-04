@@ -1,0 +1,10 @@
+*~
+*.swp
+*.tar.gz
+*.zip
+Makefile
+Makefile.old
+MANIFEST
+MANIFEST.bak
+blib
+pm_to_blib
