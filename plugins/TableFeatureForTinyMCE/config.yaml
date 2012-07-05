@@ -1,12 +1,12 @@
 id: TableFeatureForTinyMCE
 name: TableFeatureForTinyMCE
-version: 1.0
+version: 1.01
 author_link: http://www.movabletype.org/
 author_name: Six Apart, Ltd.
 description: <MT_TRANS phrase="Add table feature for TinyMCE.">
 l10n_lexicon:
     ja:
-        "Add table feature for TinyMCE.": "TinyMCEのテーブル機能拡張"
+        Add table feature for TinyMCE.: "TinyMCEのテーブル機能拡張"
 
 editors:
     tinymce:
