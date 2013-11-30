@@ -28,7 +28,7 @@ Should look like this when installed:
 
 ## License
 
-This library is free software released under the GPL.
+This library is free software released under the MIT. Please see LICENSE.txt
  
  
 ## Copyright
