@@ -7,9 +7,7 @@ Load the table plugin and add buttons for table function to TinyMCE that is defa
 
 ## Requirements
 
-* Movable Type 5.2
-  * develop-branch: Full featured.
-  * Beta 1 release: Can not show guideline. 
+* Movable Type 5.2 or later
 
 ## Installation
 
