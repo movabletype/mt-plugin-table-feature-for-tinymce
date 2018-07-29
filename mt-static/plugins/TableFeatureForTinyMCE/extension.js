@@ -3,7 +3,7 @@
 var config   = MT.Editor.TinyMCE.config;
 var base_url = StaticURI + 'plugins/TableFeatureForTinyMCE/';
 var buttons  =
-    (config.plugin_mt_wysiwyg_buttons3 || '') + ',tablecontrols,|,visualaid';
+    (config.plugin_mt_wysiwyg_buttons3 || '') + ',table,|,visualaid';
 
 $.extend(config, {
     plugins: config.plugins + ',table',
