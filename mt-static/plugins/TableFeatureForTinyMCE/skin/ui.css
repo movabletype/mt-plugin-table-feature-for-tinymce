@@ -25,3 +25,8 @@
 .mtSkin span.mce_split_cells { background-position: -450px 0; }
 .mtSkin span.mce_merge_cells { background-position: -500px 0; }
 .mtSkin span.mce_visualaid { background-position: -550px 0; }
+
+/* for tinymce4+ */
+.mce-ico.mce-i-visualaid {
+    background: transparent url(./img/icons.png) no-repeat -552px -3px !important;
+}
