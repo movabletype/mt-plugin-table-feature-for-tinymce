@@ -2,8 +2,13 @@
 
 Load the table plugin and add buttons for table function to TinyMCE that is default rich text editor of Movable Type 5.2 or later.
 
-![Screenshot](https://github.com/movabletype/mt-plugin-table-feature-for-tinymce/raw/master/artwork/screenshot.png)
+* MT6-
 
+![Screenshot](./artwork/screenshot.png)
+
+* MT7
+
+![Screenshot](./artwork/screenshot_mt7.png)
 
 ## Requirements
 
@@ -22,13 +27,13 @@ Should look like this when installed:
         mt-static/
             plugins/
                 TableFeatureForTinyMCE/
-            
+
 
 ## License
 
 This library is free software released under the MIT. Please see LICENSE.txt
- 
- 
+
+
 ## Copyright
 
 The following copyright notice applies to all the files provided in this

@@ -2,8 +2,13 @@
 
 var config   = MT.Editor.TinyMCE.config;
 var base_url = StaticURI + 'plugins/TableFeatureForTinyMCE/';
+var table_button_name = 'tablecontrols';
+if( tinymce.majorVersion > 3 ){
+  // for tinymce4+
+  table_button_name = 'table';
+}
 var buttons  =
-    (config.plugin_mt_wysiwyg_buttons3 || '') + ',table,|,visualaid';
+    (config.plugin_mt_wysiwyg_buttons3 || '') + ',' + table_button_name + ',|,visualaid';
 
 $.extend(config, {
     plugins: config.plugins + ',table',
